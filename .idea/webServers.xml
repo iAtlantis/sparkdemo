@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3537bf30-5ab8-40e2-8a6b-aedbc813822b" name="214">
+        <fileTransfer rootFolder="/usr/spark/examples" accessType="SFTP" host="10.1.48.214" port="22" sshConfigId="7dacdc08-a6d7-4550-a271-d8c150de72e9" sshConfig="root@10.1.48.214:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
